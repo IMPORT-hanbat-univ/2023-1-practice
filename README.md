@@ -20,3 +20,12 @@ python 1: https://devdubu.notion.site/77a27cb9de494736bdb2ca1b4b72c249
 <br>정답: https://devdubu.notion.site/44876d62069a44cca1df6b49e5f97421
 <br>js: https://devdubu.notion.site/22b3f7bbd3b546ed94027c1e4cf06224
 <br>정답: https://devdubu.notion.site/4fea32f5b19a49c4a2500e05d230362e
+
+
+<br>2023-05-03<br>
+python 1:  https://typical-xenon-7c3.notion.site/2-42a49b1536e140ddb9cd90d13be4752e
+<br>python 2: 
+<br>html+css: https://typical-xenon-7c3.notion.site/2-c99350cd264a47ffb9f16efe025e7d99 
+<br>정답: 
+<br>js: 
+<br>정답: 
