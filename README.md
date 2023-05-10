@@ -29,7 +29,7 @@ python 1:  https://typical-xenon-7c3.notion.site/2-42a49b1536e140ddb9cd90d13be47
 
 <br>2023-05-03<br>
 python 1:  https://typical-xenon-7c3.notion.site/2-51ef6d3264f94feea668cf0a7d94eb6b
-<br>html+css: https://vanilla-coding.gitbook.io/starter-kit/step-2/javascript-part-3 
+<br>html+css: https://typical-xenon-7c3.notion.site/2-23d6298912d646ed990e8a4d4f64a6b6
 <br>( 문제가 어려울 수 있습니다. 따라서 너무 어려우시다면 두 문제 정도만 하셔도 됩니다! 구글에 검색하시다보면 참고할만한 문서나 이 문제를 풀어본 블로그들을 보시다 보면 이해하실 수 있으실겁니다.)
 
 
